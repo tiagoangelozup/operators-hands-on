@@ -1,0 +1,6 @@
+apiVersion: install.zup.com/v1alpha1
+kind: HelloKubernetes
+metadata:
+  name: hands-on
+spec:
+  enabled: true
